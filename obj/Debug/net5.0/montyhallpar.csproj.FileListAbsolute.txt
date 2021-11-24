@@ -1,0 +1,16 @@
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\obj\Debug\net5.0\montyhallpar.csproj.AssemblyReference.cache
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\obj\Debug\net5.0\montyhallpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\obj\Debug\net5.0\montyhallpar.AssemblyInfoInputs.cache
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\obj\Debug\net5.0\montyhallpar.AssemblyInfo.cs
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\obj\Debug\net5.0\montyhallpar.csproj.CoreCompileInputs.cache
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\bin\Debug\net5.0\montyhallpar.exe
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\bin\Debug\net5.0\montyhallpar.deps.json
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\bin\Debug\net5.0\montyhallpar.runtimeconfig.json
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\bin\Debug\net5.0\montyhallpar.runtimeconfig.dev.json
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\bin\Debug\net5.0\montyhallpar.dll
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\bin\Debug\net5.0\ref\montyhallpar.dll
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\bin\Debug\net5.0\montyhallpar.pdb
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\obj\Debug\net5.0\montyhallpar.dll
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\obj\Debug\net5.0\ref\montyhallpar.dll
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\obj\Debug\net5.0\montyhallpar.pdb
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Programming\Csharp_projects\montyhallpar\obj\Debug\net5.0\montyhallpar.genruntimeconfig.cache
